@@ -1,0 +1,14 @@
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\WindowFormApp.exe.config
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\WindowFormApp.exe
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\WindowFormApp.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\KompasProgran.dll
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\KompasProgran.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\bin\Debug\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.csprojResolveAssemblyReference.cache
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.Properties.Resources.resources
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.csproj.GenerateResource.Cache
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.exe
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowFormApp\obj\Debug\WindowFormApp.Monitor.resources

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorSettings", "MonitorSttings.cs\MonitorSettings.csproj", "{132E6366-9C78-4011-81ED-8F52ECBF6D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowFormApp", "WindowFormApp\WindowFormApp.csproj", "{D384E963-4590-456D-AC33-B3E6D706C118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KompasProgram", "KompasProgran\KompasProgram.csproj", "{33DB9B86-4A24-4AA8-B2F4-5CBE3EBBAA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorTestProject", "MonitorTestt\MonitorTestProject.csproj", "{ADDA8160-4C2D-4763-8CD6-2F27B355BA60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{132E6366-9C78-4011-81ED-8F52ECBF6D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132E6366-9C78-4011-81ED-8F52ECBF6D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132E6366-9C78-4011-81ED-8F52ECBF6D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132E6366-9C78-4011-81ED-8F52ECBF6D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D384E963-4590-456D-AC33-B3E6D706C118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D384E963-4590-456D-AC33-B3E6D706C118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D384E963-4590-456D-AC33-B3E6D706C118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D384E963-4590-456D-AC33-B3E6D706C118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DB9B86-4A24-4AA8-B2F4-5CBE3EBBAA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DB9B86-4A24-4AA8-B2F4-5CBE3EBBAA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DB9B86-4A24-4AA8-B2F4-5CBE3EBBAA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DB9B86-4A24-4AA8-B2F4-5CBE3EBBAA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDA8160-4C2D-4763-8CD6-2F27B355BA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDA8160-4C2D-4763-8CD6-2F27B355BA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDA8160-4C2D-4763-8CD6-2F27B355BA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDA8160-4C2D-4763-8CD6-2F27B355BA60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6549DD9C-D605-4866-A44C-705AC81F8282}
+	EndGlobalSection
+EndGlobal

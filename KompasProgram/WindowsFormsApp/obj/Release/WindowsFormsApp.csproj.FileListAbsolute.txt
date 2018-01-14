@@ -1,0 +1,16 @@
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\WindowsFormsApp.exe.config
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\WindowsFormsApp.exe
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\WindowsFormsApp.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\KompasProgram.dll
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\KompasProgram.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\bin\Release\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\Interop.Kompas6API5.dll
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.ResolveComReference.cache
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.Monitor.resources
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.GenerateResource.Cache
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.exe
+C:\Users\Работа\source\repos\KompasProgram\WindowsFormsApp\obj\Release\WindowsFormsApp.pdb

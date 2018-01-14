@@ -1,0 +1,8 @@
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\bin\Release\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\bin\Release\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Release\MonitorSettings.csprojResolveAssemblyReference.cache
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Release\MonitorSettings.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Release\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Release\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\bin\Release\nunit.framework.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\bin\Release\nunit.framework.xml

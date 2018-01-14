@@ -1,0 +1,5 @@
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\bin\Debug\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\bin\Debug\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Debug\MonitorSttings.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Debug\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorSttings.cs\obj\Debug\MonitorSttings.cs.pdb

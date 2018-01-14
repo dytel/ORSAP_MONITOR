@@ -1,0 +1,17 @@
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\nunit.engine.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\nunit.engine.api.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\Mono.Cecil.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\MonitorTestt.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\MonitorTestt.pdb
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\nunit.framework.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\bin\Debug\nunit.framework.xml
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\obj\Debug\MonitorTest.csprojResolveAssemblyReference.cache
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\obj\Debug\MonitorTest.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\obj\Debug\MonitorTestt.dll
+C:\Users\Работа\source\repos\KompasProgram\MonitorTestt\obj\Debug\MonitorTestt.pdb

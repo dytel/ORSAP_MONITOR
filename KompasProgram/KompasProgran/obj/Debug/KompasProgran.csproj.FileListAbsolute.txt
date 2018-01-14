@@ -1,0 +1,12 @@
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\bin\Debug\KompasProgran.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\bin\Debug\KompasProgran.pdb
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\bin\Debug\MonitorSttings.cs.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\bin\Debug\MonitorSttings.cs.pdb
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\KompasProgran.csprojResolveAssemblyReference.cache
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\KompasProgran.csproj.ResolveComReference.cache
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\KompasProgran.csproj.CoreCompileInputs.cache
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\KompasProgran.dll
+C:\Users\Работа\source\repos\KompasProgram\KompasProgran\obj\Debug\KompasProgran.pdb
